@@ -24,6 +24,12 @@ We built this website using a "vibe coding" approach. Instead of getting bogged 
 * **Styling:** We used pure CSS with custom variables to keep things simple.
 * **Typography and Icons:** We used the Cairo font from Google Fonts and custom inline SVG icons.
 * **Charts:** We added Chart.js for the visual data.
+ ----------------------------------------------------------------------------------------------- 
+## Contributors
+* **Reem Alshathri (@ReemAlshathri74) https://github.com/ReemAlshathri74**
+* **Alanoud Alotaibi (@Alanoud-Alotaibi) https://github.com/Alanoud-Alotaibi**
+* **Waad Alsaif (@waadalsaif1-beep)**
+* **Hind Aldalbahi**
 
 ## Live Demo
 
